@@ -76,7 +76,7 @@ body {
     /* background-color: black; */
     color: var(--NeonGreen);
     /* padding: 10px; */
-    background-image: url('./img/L_background_2.jpg');
+    background-image: url('../img/L_background_2.jpg');
     background-repeat: no-repeat;
     background-size: cover;  
     background-attachment: fixed;  
