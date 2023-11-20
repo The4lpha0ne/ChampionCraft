@@ -172,12 +172,5 @@ Las líneas conectan el UsuarioID en la entidad **Usuario** con el UsuarioID en 
 
 ---
 
-Este es el diagrama de entidad-relación utilizando el lenguaje mermaid. Nos falta realizarlo en el lenguaje Graphviz.
-
-![Diagrama ER de ChampionCraft](https://i.postimg.cc/0yZhjzcs/diagram-1.jpg)
-
-
----
-
 ### Conclusión:
 ChampionCraft se presenta como una plataforma única y atractiva para los aficionados de League of Legends, ofreciendo una experiencia personalizada en la creación de personajes. Con una interfaz amigable y opciones tanto gratuitas como premium, ChampionCraft busca posicionarse como una herramienta esencial para los jugadores que buscan explorar y expandir su creatividad en el universo de League of Legends.
